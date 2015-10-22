@@ -1,0 +1,18 @@
+{
+  "name": "Navigo",
+  "homepage": "https://github.com/stick4real/Navigo",
+  "authors": [
+    "stick4real <maxime.dmt@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
