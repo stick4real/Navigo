@@ -61,6 +61,10 @@ $app['security.firewalls'] = array(
     ),
 );
 
+// $app['user.options'] = array(
+//     'userClass' => '\Controllers\User',
+// );
+
 new src\Routes\Router($app);
 
 // $app->get('/images', function () use ($app) {
